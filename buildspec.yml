@@ -1,10 +1,11 @@
 version: 0.2
 
 
+
 env:
   variables:
-    IMAGE_REPO_NAME: admin05-delivery
-    _PROJECT_NAME: delivery
+    IMAGE_REPO_NAME: "admin05-delivery"
+    _PROJECT_NAME: "admin05-delivery"
 
 phases:
   install:
